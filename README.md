@@ -1,6 +1,6 @@
 # How to get help in Windows ?
 
-[![How to get help in Windows ](blue.png)](https://how-to-get-help-in-windows.github.io/)
+[![How to get help in Windows ](blue.png)](https://computersolve.com/how-to-get-help-in-windows/)
 
 While Windows has generally been well-received by the users, some of the underlying Windows issues do appear from time to time. And to solve those problems, the first instinct of many users is to turn to Microsoft to get help. In our endeavor to help you solve such problems, we have written several tutorials on **how to get help in windows**. Nevertheless, if you wish to get help in Windows using chat, call, or email from Microsoft Support, follow our article below. You can contact the Windows support team and chat with a Microsoft agent to resolve the issue instantly.
 
